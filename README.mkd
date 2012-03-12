@@ -10,10 +10,17 @@ The very first frame of the video that's created is made up of the first row of 
 
 The second frame is made up of the second row of pixels from every frame of the input, and so on. 
 
+It is inspired by [this][timemachine], which was created in order to sell a programmable intervalometer. Instead of precisely rotating a motorised table and taking a picture at each increment, I opted for sticking the object on something that spins and recording video at 50 frames a second. It seems to work pretty well too. 
+[timemachine]:http://www.bmumford.com/photo/streak/index.html
+
 More Examples
 -------------
 One Two
 Three Four
+
+Usage
+-----
+Very soon I'll update this so you can just point it at a video. For now, you need to specify the input and output files, and also the dimensions of the input video.
 
 Issues
 ------
