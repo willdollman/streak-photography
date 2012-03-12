@@ -1,7 +1,7 @@
 What
 ----
 This is a simple tool that lets you create [videos like this][yt1] from [videos like this][yt2]
-[yt1]:www.youtube.com
+[yt1]:http://youtu.be/mLN5vwqiWJs
 [yt2]:http://youtu.be/mUoRef3p78s
 
 How
@@ -15,8 +15,7 @@ It is inspired by [this][timemachine], which was created in order to sell a prog
 
 More Examples
 -------------
-One Two
-Three Four
+http://youtu.be/c3TjNl3UA5U
 
 Usage
 -----
